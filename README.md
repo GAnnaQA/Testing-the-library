@@ -80,4 +80,4 @@
 
 [Баг-репорты](https://github.com/GAnnaQA/Testing-the-library/blob/main/%D0%91%D0%B0%D0%B3_%D1%80%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D1%8B_Jira.docx)
 
-[Отчет о тестировании]()
+[Отчет о тестировании](https://github.com/GAnnaQA/Testing-the-library/blob/main/README_report.md)

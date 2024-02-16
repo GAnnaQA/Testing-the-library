@@ -44,7 +44,7 @@
     <tr>
       <td>Тестирование
 требований</td>
-      <td>[Библиотека](https://books-library.herokuapp.com/)</td>
+      <td>Библиотека v1(https://books-library.herokuapp.com/)</td>
       <td>16.02/2024-18.02.2024</td>
       <td>Груздева Анна</td>
       </tr>
@@ -52,7 +52,7 @@
    <tbody>
     <tr>
       <td>Функциональное и нефункциональное тестирования портала администратора</td>
-      <td>[Библиотека](https://books-library.herokuapp.com/)</td>
+      <td>Библиотека v1(https://books-library.herokuapp.com/)</td>
       <td>19.02/2024-20.02.2024</td>
       <td>Груздева Анна</td>
       </tr>
@@ -61,7 +61,7 @@
    <tbody>
     <tr>
       <td>Функциональное и нефункциональное тестирования портала пользователя</td>
-      <td>[Библиотека](https://books-library.herokuapp.com/)</td>
+      <td>Библиотека v1(https://books-library.herokuapp.com/)</td>
       <td>21.02/2024-22.02.2024</td>
       <td>Груздева Анна</td>
       </tr>
@@ -69,7 +69,7 @@
     <tbody>
     <tr>
       <td>Приемочное тестирование</td>
-      <td>[Библиотека](https://books-library.herokuapp.com/)</td>
+      <td>Библиотека v1(https://books-library.herokuapp.com/)</td>
       <td>23.02/2024-23.02.2024</td>
       <td>Груздева Анна</td>
       </tr>
